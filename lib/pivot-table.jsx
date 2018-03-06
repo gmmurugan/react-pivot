@@ -120,7 +120,7 @@ module.exports = createReactClass({
              onClick={partial(this.props.onSolo, {
                 title: col.title,
                 value: val
-              })}>solo</a>
+              })}>only</a>
         </span>
       )
     }
